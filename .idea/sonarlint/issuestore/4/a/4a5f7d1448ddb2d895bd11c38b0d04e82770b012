@@ -1,0 +1,65 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(­‘Ó
+M
+java:S6126"2Replace this String concatenation with Text block.(µÿ¥×ùÿÿÿÿ
+W
+java:S1117%"<Rename "statement" which hides the field declared at line 9.(é°Áµşÿÿÿÿ
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(éÊ©¢øÿÿÿÿ
+M
+java:S61260"2Replace this String concatenation with Text block.(Ö¤ºÖúÿÿÿÿ
+W
+java:S11174"<Rename "statement" which hides the field declared at line 9.(é°Áµşÿÿÿÿ
+S	java:S1066"9Replace this use of System.out or System.err by a logger.(ÉÅ†¥ûÿÿÿÿ
+H
+java:S6126?"2Replace this String concatenation with Text block.(äÉ›é
+W
+java:S1117F"<Rename "statement" which hides the field declared at line 9.(é°Áµşÿÿÿÿ
+S	java:S106H"9Replace this use of System.out or System.err by a logger.(ÄÎ•–ùÿÿÿÿ
+N	java:S106`"9Replace this use of System.out or System.err by a logger.(ŒÇÉÃ
+N	java:S106s"9Replace this use of System.out or System.err by a logger.(ŒÇÉÃ
+O	java:S106ƒ"9Replace this use of System.out or System.err by a logger.(ŒÇÉÃ
+T	java:S106š"9Replace this use of System.out or System.err by a logger.(ù›šøÿÿÿÿ
+O	java:S106›"9Replace this use of System.out or System.err by a logger.(ú²İ±
+O	java:S106œ"9Replace this use of System.out or System.err by a logger.(ÌÏ¨
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ÍÁ¼§ÿÿÿÿÿ
+O	java:S106"9Replace this use of System.out or System.err by a logger.(¾º¸Æ
+T	java:S106Ÿ"9Replace this use of System.out or System.err by a logger.(Ä¦’ÿÿÿÿÿ
+T	java:S106 "9Replace this use of System.out or System.err by a logger.(ÇÁ÷Øüÿÿÿÿ
+X
+java:S1117¬"<Rename "statement" which hides the field declared at line 9.(é°Áµşÿÿÿÿ
+T	java:S106´"9Replace this use of System.out or System.err by a logger.(Õéßûÿÿÿÿ
+X
+java:S1117¿"<Rename "statement" which hides the field declared at line 9.(é°Áµşÿÿÿÿ
+T	java:S106Ê"9Replace this use of System.out or System.err by a logger.(í’Æ—ùÿÿÿÿ
+u
+java:S2293©"YReplace the type specification in this constructor call with the diamond operator ("<>").(¦ñ©äúÿÿÿÿ
+u
+java:S2293¼"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÇÇ´¾ÿÿÿÿÿ
+p
+java:S1192`"ZDefine a constant instead of duplicating this literal "Der er stadig forbindelse" 3 times.(ŒÇÉÃ
+z
+java:S1192"dDefine a constant instead of duplicating this literal "jdbc:sqlite:DBSQL_25_11_2021.sqlite" 5 times.(°¦Àˆ
+‡
+java:S1319¨"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Âÿ¥Ù
+‡
+java:S1319»"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(áïòš
+f
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(¯¹ñ–
+c
+java:S2095¬"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ
+b
+java:S20954"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ
+b
+java:S2095F"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ
+c
+java:S2095¿"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ
+b
+java:S2095%"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ
+M
+java:S2589"7Remove this expression which always evaluates to "true"(¤òª£
+N
+java:S2589‚"7Remove this expression which always evaluates to "true"(¤òª£
+M
+java:S2589_"7Remove this expression which always evaluates to "true"(¤òª£
+M
+java:S2589r"7Remove this expression which always evaluates to "true"(¤òª£
